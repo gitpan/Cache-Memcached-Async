@@ -1,0 +1,10 @@
+Revision history for Perl extension Cache::Memcached::Async.
+
+    - Split classes into files
+    - Switch to Module::Install
+    - Fix SIGPIPE handling (don't die on writes)
+
+0.10  Thu May 15 15:11:35 2008
+	- original version; created by h2xs 1.23 with options
+		-AX Cache::Memcached::Async
+
